@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-fragment/tags/1.0.0,androidx-fragment,c0ec98291814001a1ddea201d751fc77;https://github.com/dandar3/android-androidx-fragment;https://github.com/dandar3/android-androidx-fragment;branches;tags;trunk;true;8d5d3852-608b-1067-0fef-ce57b7db7bff;https://github.com/dandar3/android-androidx-fragment;;false;;;0"/>
+</provider>
+</psf>
