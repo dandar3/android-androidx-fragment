@@ -8,7 +8,9 @@
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-annotation"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-collection"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-core"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-lifecycle-livedata-core"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-lifecycle-viewmodel"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/androidx-lifecycle-viewmodel-savedstate"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-loader"/>
 	<classpathentry combineaccessrules="false" kind="src" path="/androidx-viewpager"/>
 	<classpathentry kind="output" path="bin/classes"/>
